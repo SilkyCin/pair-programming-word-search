@@ -32,3 +32,5 @@ const transpose = function(matrix) {
   };
 
   module.exports = wordSearch;
+
+//   worked on this code with Elodie Bouthors
